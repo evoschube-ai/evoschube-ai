@@ -1,20 +1,30 @@
-# Evan Allyn Schubert / EvosChube
+# Evan Allyn Schubert
 
-I build practical software, automotive systems, AI automation, and tools for small businesses.
+**Founder-builder working across automotive systems, robotics, and AI tooling.**
 
-## Available now
+Also known as **Evo** and **Evoschube**.
 
-- **Website rescue for local businesses** — run a free audit, then choose a fixed-scope repair package starting at $250: [Website Guru](https://guru.evoschube.com/?utm_source=github&utm_medium=profile&utm_campaign=website_guru)
-- **Free Website Lead Value Calculator** — model the monthly and annual revenue a service-business website may be missing, privately in your browser: [use the calculator](https://evoschube-ai.github.io/website-lead-value-calculator/?utm_source=github&utm_medium=profile&utm_campaign=website_guru_revenue)
-- **Lead Intake Template Pack** — a $97 set of form copy, reply templates, follow-up sequences, lead-board fields, and setup guidance: [see the pack](https://evoschube-store.pages.dev/lead-intake-template-pack.html?utm_source=github&utm_medium=profile&utm_campaign=lead_intake_pack)
+I am building Schubert Motors USA and Aerosyn while publishing selected tools, technical work, and project evidence in public.
 
-## Public work
+## Start here
 
-- [Free lead intake checklist](https://github.com/evoschube-ai/lead-intake-template-pack) for small service businesses
-- [fleet-llm](https://github.com/evoschube-ai/fleet-llm), a local-first prompt router for Ollama, Anthropic, and OpenAI
+- [EvanAllynSchubert.com](https://evanallynschubert.com/) — personal profile and company map
 - [Schubert Motors USA](https://schubertmotorsusa.com/) — automotive systems and vehicle development
-- [Aerosyn](https://aerosyn.co/) — autonomous systems and demanding-environment engineering
+- [Aerosyn](https://aerosyn.co/) — robotics, autonomy, and demanding-environment engineering
+- [Public proof archive](https://evoschube-store.pages.dev/empire-proof-archive.html) — a bounded map of active artifact lanes and public surfaces
+
+## Selected public work
+
+- [fleet-llm](https://github.com/evoschube-ai/fleet-llm) — local-first prompt routing across Ollama, Anthropic, and OpenAI
+- [Evoschube AI repositories](https://github.com/evoschube-ai?tab=repositories) — public tools and experiments
+
+## Current focus
+
+- Vehicle systems, control software, simulation, and prototyping
+- Robotics, autonomous systems, and fleet operations
+- Local AI infrastructure, multi-agent workflows, and practical automation
+- Turning long-running engineering work into testable, public artifacts
 
 ## Contact
 
-For a specific project, email [evoschube@gmail.com](mailto:evoschube@gmail.com) with the outcome you need, the current problem, and any deadline.
+For a concrete build, research problem, or engineering partnership, email [evoschube@gmail.com](mailto:evoschube@gmail.com).

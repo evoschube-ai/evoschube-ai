@@ -15,6 +15,7 @@ I am building Schubert Motors USA and Aerosyn while publishing selected tools, t
 
 ## Selected public work
 
+- [Schubert 427 BeamNG pack](https://schubert-427-beamng.pages.dev/?utm_source=github-profile&utm_medium=profile&utm_campaign=schubert-427-v0-1) — a $3 high-output V8 and seven-speed Barstow powertrain pack with published native runtime evidence
 - [fleet-llm](https://github.com/evoschube-ai/fleet-llm) — local-first prompt routing across Ollama, Anthropic, and OpenAI
 - [Evoschube AI repositories](https://github.com/evoschube-ai?tab=repositories) — public tools and experiments
 
